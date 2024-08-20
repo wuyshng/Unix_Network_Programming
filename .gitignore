@@ -1,4 +1,6 @@
 client
 server
 test
+server_thread
+server_selectpoll
 .vscode
